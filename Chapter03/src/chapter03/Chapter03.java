@@ -34,7 +34,7 @@ public class Chapter03 {
     public static void A1() {
         final double _pi = 3.14159; // Math.PI;
         
-        System.out.println("Enter radius:");
+        System.out.print("Enter radius: ");
 
         Scanner _scanner = new Scanner(System.in);
         double _radius = _scanner.nextDouble();
@@ -122,7 +122,7 @@ public class Chapter03 {
      * A program that will read the user’s birth date as day month and year order, then it will calculate and print the day of week (1-7) of that date. (Hint: page 123)
      */
     public static void A5() {
-        System.out.println("Enter your birth day in DD/MM/YYYY:");
+        System.out.print("Enter your birth day in DD/MM/YYYY: ");
 
         Scanner _scanner = new Scanner(System.in);
         String _input = _scanner.next();
