@@ -1,4 +1,4 @@
-itec316
+itec314
 =======
 
-Solutions for the lab sessions of ITEC316 course.
+Solutions for the lab sessions of ITEC314 course.
